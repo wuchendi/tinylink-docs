@@ -26,9 +26,6 @@ TinyLink 是一个隐私优先的短链服务，支持按地域 / 设备路由�
 TinyLink 两者都不是——它是一个 Cloudflare Worker，在边缘完成跳转，数据留在你自己的数据库里，
 统计访客时也从不保存对方的 IP 地址。
 
-它是 [flnk](https://github.com/wuchendi/projects/tree/main/archived/flnk) 的继任者，
-重新做成了一个独立产品，加入了工作区、自定义域名和管理后台。
-
 ---
 
 ## 生成与路由

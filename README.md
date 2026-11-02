@@ -27,9 +27,6 @@ self-hosted ones are a server you babysit. TinyLink is neither — a single Clou
 that resolves redirects at the edge, keeps your data in your own database, and counts
 visitors without ever storing their IP address.
 
-It is the successor to [flnk](https://github.com/wuchendi/projects/tree/main/archived/flnk),
-rebuilt as a standalone product with workspaces, custom domains and an admin console.
-
 ---
 
 ## Shorten and route.
